@@ -14,3 +14,8 @@ def m2(list01):
     for i in list01:
         print(i.title())
 m2(my_list)
+def m3(list02):
+    print('items in the list:\n'.title())
+    for i in list02:
+        print(i.upper())
+m3(my_list)
