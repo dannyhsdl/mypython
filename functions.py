@@ -9,4 +9,8 @@ def m1(list00):
     for i in list00:
         print(i)
 m1(my_list)
-
+def m2(list01):
+    print('there is a list of some countries.\n')
+    for i in list01:
+        print(i.title())
+m2(my_list)
