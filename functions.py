@@ -19,3 +19,8 @@ def m3(list02):
     for i in list02:
         print(i.upper())
 m3(my_list)
+def m4(list03):
+    print('items in the list:\n'.upper())
+    for i in list03:
+        print('(we got)'+i.upper())
+m4(my_list)
