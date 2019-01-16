@@ -24,3 +24,6 @@ def m4(list03):
     for i in list03:
         print('(we got)'+i.upper())
 m4(my_list)
+def m5():
+    print('hello,everyone!welcome to here!'.title())
+m5()
