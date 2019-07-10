@@ -1,0 +1,14 @@
+Things you gotta notice when you're in reding Python codes
+1. Mark the useage of functions
+2. Be careful about the begining value or variables
+3. You'd care about 'if' and 'else'
+4. Very careful when you use while-loop 
+5. Mark anywhere as you can if you don't understand what it means
+
+You need to give people explians how actually the program works
+it will remind you what you should care
+
+follow every variable if you don't wanna get comfused
+Flow Chart is stuff that is very important
+Ok, these are some stuff you'd care, thank you very much!
+Have a nice day.
